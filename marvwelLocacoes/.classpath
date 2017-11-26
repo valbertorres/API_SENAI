@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/postgresql-8.3-603.jdbc4.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="jstl.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javaee-doc-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javax.annotation-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javax.xml.soap-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jaxb-api-osgi.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="postgresql-8.3-603.jdbc4.jar"/>
+	<classpathentry kind="lib" path="standard.jar"/>
+	<classpathentry kind="lib" path="lib/jstl.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-8.3-603.jdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/standard.jar"/>
+	<classpathentry kind="lib" path="/opt/tomcat-9/apache-tomcat-9.0.1/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-openjdk-amd64">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>
